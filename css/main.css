@@ -49,7 +49,6 @@ img {
 /* HEADER  */
 
 .site-header {
-
 }
 .site-header-top {
   background: #f6f6f6;
@@ -83,7 +82,7 @@ img {
 .corrency-rates-item {
   padding: 0;
   margin: 0;
-  font-family: "Rubik",sans-serif;
+  font-family: "Rubik", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -105,8 +104,6 @@ img {
 }
 .registr-form {
   margin-right: 25px;
-
-
 }
 .registr-form input {
   width: 275px;
@@ -125,7 +122,7 @@ img {
   height: 36px;
   background: #dce6ff;
   border-radius: 39px;
-  font-family: "Rubik",sans-serif;
+  font-family: "Rubik", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 13px;
@@ -149,11 +146,54 @@ img {
   background: #7296ec;
   border-radius: 10px;
   padding: 13px 20px;
-  font-family: "Rubik",sans-serif;
+  font-family: "Rubik", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 19px;
   color: #ffffff;
- 
+}
+
+/* SITE HEADER BOTTOM  */
+
+.site-header-bottom {
+}
+
+.sitenav {
+  display: flex;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  color: #7f7f7f;
+  margin-top: 30px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #d1d1d1;
+}
+.sitenav-list {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  list-style: none;
+}
+.navlist-item {
+  margin-right: 34.44px;
+}
+.navlist-link {
+  text-decoration: none;
+  font-family: "Rubik", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  color: #7f7f7f;
+}
+.banner {
+}
+.banner-img {
+  margin-top: 40px;
+  margin-bottom: 50px;
 }
